@@ -1,5 +1,5 @@
 ---
-title: /
+title: k_shell
 layout: home
 permalink: /
 ---
