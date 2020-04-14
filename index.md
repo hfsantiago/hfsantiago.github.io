@@ -6,4 +6,4 @@ permalink: /
 
 # Lorem ipsum
 
-Hola mundo
+This blog es related to
